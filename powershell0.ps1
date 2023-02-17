@@ -16,7 +16,8 @@
 
 # Read all of the remarks (hash-tagged green lines) as non-command steps and information is included throughout this script.
 
-# Some demo commands have been modified to work within the lab environment. They will perform the same general tasks, but may have different references such as file directories. Also, any tasks requiring internet access will be skipped.
+# Some demo commands have been modified to work within the lab environment. They will perform the same general tasks, but may have different references 
+such as file directories. Also, any tasks requiring internet access will be skipped.
 
 # Use of cls in code is to clear-host or clear the screen during demos. This can be skipped during your labs if desired.
 
